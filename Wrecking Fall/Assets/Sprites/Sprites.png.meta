@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 9eca868f2ea774d4398cfe21be2d4c39
+timeCreated: 1432392128
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crane
+    21300002: charlie_eb
+    21300004: Charlie_smile
+    21300006: ball
+    21300008: pully
+    21300010: charlie_eye2
+    21300012: charlie
+    21300014: cloud_1
+    21300016: cloud_2
+    21300018: cloud_3
+    21300020: cloud_4
+    21300022: cloud_5
+    21300024: cloud_6
+    21300026: bg
+    21300028: btn_ball_normal
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: crane
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 167
+        width: 58
+        height: 609
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charlie_eb
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 571
+        width: 130
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Charlie_smile
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 380
+        width: 130
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ball
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 439
+        width: 74
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pully
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 682
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charlie_eye2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 179
+        width: 130
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: charlie
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 153
+        width: 130
+        height: 191
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 91
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 82
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 14
+        width: 102
+        height: 51
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_4
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 62
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_5
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 10
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cloud_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 94
+        height: 62
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bg
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2
+        width: 432
+        height: 774
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_ball_normal
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 349
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

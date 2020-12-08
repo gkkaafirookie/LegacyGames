@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 62ee67617813e164f99b015b4504be17
+timeCreated: 1432376215
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game_Over
+    21300002: score
+    21300004: high_score
+    21300006: go
+    21300008: get
+    21300010: set
+    21300012: tap
+    21300014: leader
+    21300016: achivements
+    21300018: replay
+    21300020: play
+    21300022: dlg
+    21300024: btn_normal
+    21300026: btn_pressed
+    21300028: credits
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Game_Over
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 285
+        width: 341
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 246
+        width: 194
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: high_score
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 176
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: go
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 216
+        width: 132
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: get
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 158
+        width: 122
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: set
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 156
+        width: 120
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tap
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 352
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: leader
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 286
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: achivements
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 288
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: replay
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 217
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 211
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dlg
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 160
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_normal
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 150
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: btn_pressed
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 100
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: credits
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 17
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

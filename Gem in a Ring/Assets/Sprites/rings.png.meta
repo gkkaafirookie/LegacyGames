@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 5d0966a46ed99b04c8e2eb44c5aba23d
+timeCreated: 1435950596
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: in_ring
+    21300002: out_ring
+    21300004: in_ylw1
+    21300006: out_pur2
+    21300008: in_grn1
+    21300010: in_org1
+    21300012: in_pnk1
+    21300014: in_pur1
+    21300016: in_blu1
+    21300018: out_pnk1
+    21300020: out_org1
+    21300022: out_grn1
+    21300024: out_pur1
+    21300026: out_blu1
+    21300028: out_ylw1
+    21300030: in_pnk2
+    21300032: in_org2
+    21300034: in_grn2
+    21300036: in_pur2
+    21300038: in_blu2
+    21300040: in_ylw2
+    21300042: out_pnk2
+    21300044: out_org2
+    21300046: out_grn2
+    21300048: out_blu2
+    21300050: out_ylw2
+    21300052: in_pnk3
+    21300054: in_org3
+    21300056: in_grn3
+    21300058: in_pup3
+    21300060: in_blu3
+    21300062: in_ylw3
+    21300064: out_pnk3
+    21300066: out_org3
+    21300068: out_grn3
+    21300070: out_pur3
+    21300072: out_blu3
+    21300074: out_ylw3
+    21300076: in_pnk4
+    21300078: in_org4
+    21300080: in_grn4
+    21300082: in_pup4
+    21300084: in_blu4
+    21300086: in_ylw4
+    21300088: out_pnk4
+    21300090: out_org4
+    21300092: out_grn4
+    21300094: out_pur4
+    21300096: out_blu4
+    21300098: out_ylw4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: in_ylw1
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1470
+        width: 138
+        height: 129
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pur2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 818
+        width: 96
+        height: 186
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_grn1
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1471
+        width: 141
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_org1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1471
+        width: 139
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pnk1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1471
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pur1
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1468
+        width: 136
+        height: 131
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_blu1
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1471
+        width: 138
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pnk1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_org1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1251
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_grn1
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1251
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pur1
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1250
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_blu1
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1250
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_ylw1
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1248
+        width: 176
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pnk2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1040
+        width: 65
+        height: 137
+      alignment: 4
+      pivot: {x: 0, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_org2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1041
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .100616455, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_grn2
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1041
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .108865224, y: .503620207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pur2
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1041
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .114297658, y: .503620207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_blu2
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1041
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .104618385, y: .496380657}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_ylw2
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 1040
+        width: 72
+        height: 137
+      alignment: 9
+      pivot: {x: .107142858, y: .503620207}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pnk2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 821
+        width: 97
+        height: 186
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_org2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 820
+        width: 96
+        height: 186
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_grn2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 820
+        width: 94
+        height: 186
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_blu2
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 819
+        width: 96
+        height: 186
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_ylw2
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 820
+        width: 98
+        height: 186
+      alignment: 5
+      pivot: {x: 1, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pnk3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 627
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_org3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 628
+        width: 137
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_grn3
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 627
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pup3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 626
+        width: 138
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_blu3
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 626
+        width: 136
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_ylw3
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 626
+        width: 137
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pnk3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 405
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_org3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 405
+        width: 184
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_grn3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 405
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pur3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 403
+        width: 186
+        height: 187
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_blu3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 406
+        width: 185
+        height: 184
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_ylw3
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 406
+        width: 185
+        height: 185
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pnk4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 218
+        width: 137
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_org4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 220
+        width: 137
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_grn4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 221
+        width: 136
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_pup4
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 220
+        width: 138
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_blu4
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 221
+        width: 139
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: in_ylw4
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 221
+        width: 139
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pnk4
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 184
+        height: 167
+      alignment: 9
+      pivot: {x: .497133702, y: .557082772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_org4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 184
+        height: 166
+      alignment: 9
+      pivot: {x: .497133702, y: .557082772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_grn4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 0
+        width: 184
+        height: 164
+      alignment: 9
+      pivot: {x: .497133702, y: .557082772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_pur4
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 184
+        height: 166
+      alignment: 9
+      pivot: {x: .497133702, y: .557082772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_blu4
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1
+        width: 184
+        height: 164
+      alignment: 9
+      pivot: {x: .497133672, y: .557082832}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: out_ylw4
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 0
+        width: 184
+        height: 164
+      alignment: 9
+      pivot: {x: .497133702, y: .557082772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
